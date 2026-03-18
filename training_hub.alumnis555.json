@@ -1,0 +1,1620 @@
+[{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e028"
+  },
+  "name": "Yanvika Sood Prabhakar",
+  "passoutYear": "2016",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Optum",
+    "role": "Scrum Lead"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.125Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e029"
+  },
+  "name": "Deepam Sehgal",
+  "passoutYear": "2016",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "iDrive Software",
+    "role": "Team Lead"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e02a"
+  },
+  "name": "Pardeep Kumar",
+  "passoutYear": "2017",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Optum",
+    "role": "Software Engineering Lead"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e02b"
+  },
+  "name": "Yashdeep Batra",
+  "passoutYear": "2017",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "MBA",
+    "university": "NMIMS",
+    "year": "2021"
+  },
+  "currentJob": {
+    "company": "Accenture",
+    "role": "Senior Business Analyst"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e02c"
+  },
+  "name": "Lalit Sharma",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "SMS Group",
+    "role": "Senior Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e02d"
+  },
+  "name": "Mahima Gupta",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "IBM",
+    "role": "Senior DevOps Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e02e"
+  },
+  "name": "Shubham Sharda",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Infosys",
+    "role": "Consultant"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e02f"
+  },
+  "name": "Monika Singh",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Bosch",
+    "role": "Senior Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e030"
+  },
+  "name": "Tushar Rajput",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "NTT Data",
+    "role": "Senior Analyst"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e031"
+  },
+  "name": "Pruva Jain",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Cognizant",
+    "role": "Senior Associate (Salesforce)"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.129Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e032"
+  },
+  "name": "Sachin Verma",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "M.Tech",
+    "university": "Yamuna Institute",
+    "year": "2021"
+  },
+  "currentJob": {
+    "company": "Nagarro",
+    "role": "Associate Staff Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e033"
+  },
+  "name": "Lavpreet Singh",
+  "passoutYear": "2018",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "PG-DBDA",
+    "university": "CDAC Bangalore",
+    "year": "2020"
+  },
+  "currentJob": {
+    "company": "Bosch",
+    "role": "Senior Software Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e034"
+  },
+  "name": "Kanishta Kopani",
+  "passoutYear": "2018",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Netflix",
+    "role": "Product Manager"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e035"
+  },
+  "name": "Aastha Gupta",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Infosys",
+    "role": "Consultant"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e036"
+  },
+  "name": "Gurwinder Singh",
+  "passoutYear": "2018",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "M.Tech",
+    "university": "Chitkara University",
+    "year": "2021"
+  },
+  "currentJob": {
+    "company": "Intel",
+    "role": "GPU Software Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e037"
+  },
+  "name": "Mamu Khan",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Cognizant",
+    "role": "Senior Associate"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e038"
+  },
+  "name": "Dishant Chawla",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Quantiphi",
+    "role": "Senior Software Developer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e039"
+  },
+  "name": "Aditi Chahal",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "MS (AI)",
+    "university": "University of Adelaide",
+    "year": "2026"
+  },
+  "currentJob": {
+    "company": "Telstra",
+    "role": "DevOps Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e03a"
+  },
+  "name": "Brahmishtha Bharti-Gupta",
+  "passoutYear": "2018",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "MBA",
+    "university": "IBS Hyderabad",
+    "year": "2020"
+  },
+  "currentJob": {
+    "company": "Bank of America",
+    "role": "Manager"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e03b"
+  },
+  "name": "Sahil Saini",
+  "passoutYear": "2019",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "InvestWell",
+    "role": "Senior iOS Developer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e03c"
+  },
+  "name": "Sahil Aggarwal",
+  "passoutYear": "2019",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "EXL",
+    "role": "Associate Manager"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e03d"
+  },
+  "name": "Riya Bakshi",
+  "passoutYear": "2019",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "PGDM",
+    "university": "FORE School of Management",
+    "year": "2022"
+  },
+  "currentJob": {
+    "company": "Deloitte",
+    "role": "Strategy Consultant"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e03e"
+  },
+  "name": "Akash Goindi",
+  "passoutYear": "2019",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "M.Tech",
+    "university": "Illinois Institute of Technology",
+    "year": "2024"
+  },
+  "currentJob": {
+    "company": "Zymo Research",
+    "role": "Senior Software Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e03f"
+  },
+  "name": "Rajat Aggarwal",
+  "passoutYear": "2019",
+  "bachelors": "IIT Bombay",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Ciena",
+    "role": "Software Developer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e040"
+  },
+  "name": "Shagun Thukral",
+  "passoutYear": "2019",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Sun Life",
+    "role": "Senior Salesforce Developer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e041"
+  },
+  "name": "Juhi Kumari",
+  "passoutYear": "2019",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Make Positive",
+    "role": "Test Analyst"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e042"
+  },
+  "name": "Ullas Sood",
+  "passoutYear": "2019",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "HCS Industries",
+    "role": "Managing Director"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e043"
+  },
+  "name": "Harsha Chauhan",
+  "passoutYear": "2019",
+  "bachelors": "MMDU",
+  "higherEducation": {
+    "degree": "MS (CS)",
+    "university": "Chitkara University",
+    "year": "2022"
+  },
+  "currentJob": {
+    "company": "Grazitti Interactive",
+    "role": "Software Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e044"
+  },
+  "name": "Priya Sharma",
+  "passoutYear": "2019",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "RMIT University",
+    "year": "2022"
+  },
+  "currentJob": {
+    "company": "Not Mentioned",
+    "role": "Not Mentioned"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e045"
+  },
+  "name": "Vivek Kumar",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "TCS",
+    "role": "IT Analyst"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e046"
+  },
+  "name": "Rashi Sharma",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Capgemini",
+    "role": "Senior Analyst"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e047"
+  },
+  "name": "Animesh Vaibhav",
+  "passoutYear": "2020",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Cognizant",
+    "role": "Associate Projects"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e048"
+  },
+  "name": "Abhishek Saini",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Persistent Systems",
+    "role": "Engineering Lead"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e049"
+  },
+  "name": "Ayush Raj",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "EY",
+    "role": "Senior Technical Lead"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e04a"
+  },
+  "name": "Rekha",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Accenture",
+    "role": "Senior Analyst (Tech Architect)"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e04b"
+  },
+  "name": "Shivani",
+  "passoutYear": "2020",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "MS",
+    "university": "University of Southern California",
+    "year": "2023"
+  },
+  "currentJob": {
+    "company": "Neurolean Corp",
+    "role": "iOS Developer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e04c"
+  },
+  "name": "Adarsh Dwivedi",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "AVRL",
+    "role": "SDE-1"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e04d"
+  },
+  "name": "Bhuvan Chopra",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Axtria",
+    "role": "Associate"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e04e"
+  },
+  "name": "Palika Dua",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "ValueFirst",
+    "role": "System Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e04f"
+  },
+  "name": "Aman",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "TATA",
+    "role": "Assistant System Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e050"
+  },
+  "name": "Mehak Gupta",
+  "passoutYear": "2020",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "DCX Tech",
+    "role": "Software Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e051"
+  },
+  "name": "Atharva Singh",
+  "passoutYear": "2020",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "TAC The Ayurveda",
+    "role": "Chief of Staff"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e052"
+  },
+  "name": "Utkarsh Bansal",
+  "passoutYear": "2021",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "MS (CS)",
+    "university": "University at Buffalo",
+    "year": "2023"
+  },
+  "currentJob": {
+    "company": "University at Buffalo",
+    "role": "Research Assistant"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e053"
+  },
+  "name": "Ayush Gupta",
+  "passoutYear": "2021",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "NCR Atleos",
+    "role": "Team Lead"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e054"
+  },
+  "name": "Muskaan Goel",
+  "passoutYear": "2021",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Infosys",
+    "role": "Senior System Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e055"
+  },
+  "name": "Lucky Bodwal",
+  "passoutYear": "2022",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Intellect",
+    "role": "Associate Consultant"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e056"
+  },
+  "name": "Bhopendar Yadav",
+  "passoutYear": "2022",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Complere Infosystem",
+    "role": "ETL Developer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e057"
+  },
+  "name": "Hardik",
+  "passoutYear": "2022",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Capgemini",
+    "role": "Consultant"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e058"
+  },
+  "name": "Anubhav Verma",
+  "passoutYear": "2023",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Tech Mahindra",
+    "role": "Associate Software Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e059"
+  },
+  "name": "Sanchit Jain",
+  "passoutYear": "2023",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Infosys Consulting",
+    "role": "Business Consultant"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e05a"
+  },
+  "name": "Kanishk Kumar",
+  "passoutYear": "2023",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Thinknyx",
+    "role": "Technical Project Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e05b"
+  },
+  "name": "Tanu",
+  "passoutYear": "2023",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Manras Tech",
+    "role": "Salesforce QA"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e05c"
+  },
+  "name": "Srishti Verma",
+  "passoutYear": "2023",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "H&R Block India",
+    "role": "Software Developer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e05d"
+  },
+  "name": "Isha Bhatia",
+  "passoutYear": "2025",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Logicizel IP",
+    "role": "Patient Analyst"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e05e"
+  },
+  "name": "Shashank Rai",
+  "passoutYear": "Not Mentioned",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "EY",
+    "role": "Senior"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e05f"
+  },
+  "name": "Alisha B",
+  "passoutYear": "Not Mentioned",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "SAP Labs",
+    "role": "Senior Data Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e060"
+  },
+  "name": "Sahib Singh Bhatia",
+  "passoutYear": "Not Mentioned",
+  "bachelors": "KUK",
+  "higherEducation": {
+    "degree": "MS (Data Science)",
+    "university": "San Jose State University",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "AWS",
+    "role": "Software Development Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e061"
+  },
+  "name": "Ankita Mittal",
+  "passoutYear": "Not Mentioned",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "MBA",
+    "university": "MMDU",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Dvrtta",
+    "role": "Business Analyst"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e062"
+  },
+  "name": "Sumit Manethia",
+  "passoutYear": "Not Mentioned",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Manras Tech",
+    "role": "Associate Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697a3f260ea870e2dc08e063"
+  },
+  "name": "Ridhi Mago",
+  "passoutYear": "Not Mentioned",
+  "bachelors": "KUK (ACE)",
+  "higherEducation": {
+    "degree": "—",
+    "university": "—",
+    "year": "—"
+  },
+  "currentJob": {
+    "company": "Brillio",
+    "role": "Senior Software Engineer"
+  },
+  "isActive": true,
+  "isFeatured": false,
+  "careerPath": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-28T16:53:58.136Z"
+  }
+}]
